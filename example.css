@@ -1,0 +1,15 @@
+.container{
+    border: 3px solid black;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    height: 10vh;
+}
+
+.box{
+    width: 5rem;
+    height: 5rem;
+    background-color: yellow;
+    margin: 1rem;
+}

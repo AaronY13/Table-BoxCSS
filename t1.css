@@ -1,0 +1,27 @@
+table {
+    border-spacing: 0px;
+}
+
+th, tr {
+    border-bottom: 1px solid black;
+}
+
+td {
+    padding: 5px;
+}
+
+tr:nth-child(even){
+    background-color: lightgray;
+}
+
+tr th{
+    color: white;
+    padding: 5px;
+    background-color: royalblue;
+}
+
+#footer{ 
+    font-weight: 3px;
+    color: white;
+    background-color: royalblue;
+}

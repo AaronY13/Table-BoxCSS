@@ -1,0 +1,18 @@
+.container{
+    border: 0px solid black;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.box{
+    width: 20rem;
+    height: 20rem;
+    background-color:orangered;
+    margin: 1rem;
+    opacity: 80%;
+    box-shadow: 10px 10px 5px gray;
+    border-radius: 20px;
+
+}
